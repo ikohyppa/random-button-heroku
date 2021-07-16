@@ -4,6 +4,7 @@ Simple react-app. App shows a button and pressing it gives a random integer numb
 
 App is available as docker image
 ikohyppa/random-button
-run by
+
 docker run -p xxxx:5000 ikohyppa/random-button
+
 where xxxx is desired host port

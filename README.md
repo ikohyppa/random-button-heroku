@@ -7,4 +7,4 @@ ikohyppa/random-button
 
 docker run -p xxxx:5000 ikohyppa/random-button
 
-where xxxx is desired host port
+where xxxx is host port

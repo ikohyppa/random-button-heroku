@@ -10,7 +10,7 @@ const App = () => {
   };
   return (
     <div className='App'>
-      <button onClick={getRandom}>Press to get random number!</button>
+      <button onClick={getRandom}>Press to get random number</button>
       <h3>{random}</h3>
     </div>
   );
